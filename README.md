@@ -16,7 +16,7 @@ Who's the "right" person for a team? In short, an [ideal team player](https://ww
 
 The work environment is primarily made up of a set of behaviors, and culture is the byproduct of the behaviors you tolerate. Therefore, I work to discourage negative behaviors such as gossip and to encourage positive behaviors such as public praise.
 
-A quick note on gossip: you should pass negatives up and positives all around. Sharing positive comments with coworkers helps foster more positivity. Sharing negative comments with coworkers will help foster more negativity, and, furthermore, generally your coworkers can't help resolve the conflicts. For instance, if you have a problem with your computer, chances are your coworker you're complaining to won't be able to help, but if you let your manager know about your issue, he/she can (and is motivated to) work to resolve the issue.
+A quick note on gossip: you should pass negatives up (to your manager(s) privately) and positives all around (share with everyone publicly). Sharing positive comments with coworkers helps foster more positivity. Sharing negative comments with coworkers will help foster more negativity, and, furthermore, generally your coworkers can't help resolve the conflicts. For instance, if you have a problem with your computer, chances are your coworker you're complaining to won't be able to help, but if you let your manager know about your issue, he/she can (and is motivated to) work to resolve the issue.
 
 ### Have Deep Domain/Technical Knowledge
 
