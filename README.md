@@ -16,7 +16,7 @@ Who's the "right" person for a team? In short, an [ideal team player](https://ww
 
 The work environment is primarily made up of a set of behaviors, and culture is the byproduct of the behaviors you tolerate. Therefore, I work to discourage negative behaviors such as gossip and to encourage positive behaviors such as public praise.
 
-A quick note on gossip: you should pass negatives up (to your manager(s) privately) and positives all around (share with everyone publicly). Sharing positive comments with coworkers helps foster more positivity. Sharing negative comments with coworkers will help foster more negativity, and, furthermore, generally your coworkers can't help resolve the conflicts. For instance, if you have a problem with your computer, chances are your coworker you're complaining to won't be able to help, but if you let your manager know about your issue, he/she can (and is motivated to) work to resolve the issue.
+A quick note on gossip: you should pass negatives up (to your manager(s) privately) and positives all around (share with everyone publicly). Sharing positive comments with coworkers helps foster more positivity. Sharing negative comments with coworkers will help foster more negativity, and, furthermore, generally your coworkers can't help resolve the conflicts. For instance, if you have a problem with your computer, chances are your coworker you're complaining to won't be able to help, but if you let your manager know about your issue, he/she can (and is motivated to) work to resolve the issue. This is more about comments or gossip than feedback. There's a whole [section on feedback](#feedback---opentransparent) below.
 
 ### Have Deep Domain/Technical Knowledge
 
@@ -115,6 +115,8 @@ I do my best to live my life as an open book. If you ask me about something even
 That said, anything you and I discuss in private will stay there unless I have your permission to share it. Likewise, there may be some company information I may not be able to share. Typically, it's more of a timing thing - I can't share it until X date. In these cases, I'll say so.
 
 I'm a big believer in being radically candid - from Radical Candor by Kim Scott. Here's a great [article](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) on First Round Review that sums it up. Two requirements for being radically candid are for us to have psychological safety and for the feedback to be real-time. In short, to create psychological safety, my aim is for work to be a place where you can be fully you.
+
+Another aspect to creating a psychologically safe environment has to do with how we handle positive and negative feedback. In general, feedback should be shared privately in real-time. Similar to my gossip note, positive feedback is generally okay to be shared publicly. However, negative feedback (or feedback that could be perceived as negative) should never be shared in public - always share this privately.
 
 ### 1 on 1's
 
