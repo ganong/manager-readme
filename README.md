@@ -2,7 +2,7 @@
 
 Welcome!
 
-This exists to give you some insight into what to expect from me (not what I expect from you). Most of this will come out organically as we get to know each other. This serves as a place for me to gather my thoughts and share them succinctly (or as succinctly as possible...).
+This exists to give you some insight into what to expect when working with me. Most of this will come out organically as we get to know each other. This serves as a place for me to gather my thoughts and share them succinctly.
 
 ## My Role
 
@@ -12,11 +12,11 @@ In short, my role is to maintain and elevate team culture and to have deep domai
 
 I'm a firm believer that work is a function of people and environment. Therefore, my main job is to make sure the team has the "right" people and an environment that supports them to do great work.
 
-Who's the "right" person for a team? In short, an [ideal team player](https://www.tablegroup.com/books/ideal-team-player) is what I mean by "right" - that's someone that's humble, hungry, and smart (EQ). I'll take an ideal team player without relevant experience over a non-ideal team player with relevant experience any day of the week. The hunger alone, will help that ideal team player bridge the gap in short order, elevating the team. Whereas the non-ideal team player may be able to hit the ground running but will bring down the rest of the team over time. Another way to put this - no brilliant jerks please!
+Who's the "right" person for a team? In short, an [ideal team player](https://www.tablegroup.com/books/ideal-team-player) is what I mean by "right" - that's someone who's humble, hungry, and smart (EQ). I'll take an ideal team player without relevant experience over a non-ideal team player with relevant experience any day of the week. The hunger alone will help that ideal team player bridge the gap in short order, elevating the team, whereas the non-ideal team player may be able to hit the ground running but will bring down the rest of the team over time. Another way to put this - no brilliant jerks!
 
 The work environment is primarily made up of a set of behaviors, and culture is the byproduct of the behaviors you tolerate. Therefore, I work to discourage negative behaviors such as gossip and to encourage positive behaviors such as public praise.
 
-A quick note on gossip: you should pass negatives up (to your manager(s) privately) and positives all around (share with everyone publicly). Sharing positive comments with coworkers helps foster more positivity. Sharing negative comments with coworkers will help foster more negativity, and, furthermore, generally your coworkers can't help resolve the conflicts. For instance, if you have a problem with your computer, chances are your coworker you're complaining to won't be able to help, but if you let your manager know about your issue, he/she can (and is motivated to) work to resolve the issue. This is more about comments or gossip than feedback. There's a whole [section on feedback](#feedback---opentransparent) below.
+A quick note on gossip: You should pass negatives up (to your manager(s) privately) and positives all around (share with everyone publicly). Sharing positive comments with coworkers helps foster more positivity. Sharing negative comments with coworkers will help foster more negativity, and, furthermore, generally your coworkers can't help resolve the conflicts. For instance, if you have a problem with your computer, chances are the coworker you're complaining to won't be able to help, but if you let your manager know about your issue, he/she can (and is motivated to) work to resolve the issue. This is more about comments or gossip than feedback. There's a whole [section on feedback](#feedback---opentransparent) below.
 
 ### Have Deep Domain/Technical Knowledge
 
@@ -44,7 +44,7 @@ Additionally, while working with stakeholders, it's imperative for me to know if
 
 ### Servant Leadership
 
-At it's base, servant leadership is about [leading with others in mind](https://www.skipprichard.com/9-qualities-of-the-servant-leader/) - thinking "you" not "me". This also means that I won't ask you to do something that I'm not willing to do myself.
+At its base, servant leadership is about [leading with others in mind](https://www.skipprichard.com/9-qualities-of-the-servant-leader/) - thinking "you" not "me". This also means that I won't ask you to do something that I'm not willing to do myself.
 
 ### Empowerment
 
@@ -52,7 +52,7 @@ I believe in empowering my team through providing a clear roadmap, vision, and c
 
 Also, I trust that you don't need me involved in every decision. You have the day-to-day context and, if I'm doing my job, the global context/vision required to make most decisions. That said, there's a balance here, there are some decisions I definitely need to be involved in, and there are some where I may not need to be involved but I should at least be aware of the decision. In the beginning, we should lean more towards keeping me aware of most decisions with that diminishing over time. This goes hand-in-hand with building an [Intent-Based Environment](https://www.davidmarquet.com/our-story/).
 
-### We're all in the same Canoe
+### We're All in the Same Canoe
 
 I was lucky enough to hear Davidson's Coach Bob McKillop give a talk about his "canoe theory." Growing up camping, backpacking and canoeing, it stuck.
 
@@ -112,8 +112,6 @@ If it's urgent (after hours or not), I'll start with a slack and escalate to tex
 
 I do my best to live my life as an open book. If you ask me about something even if it's personal, I'll probably answer it.
 
-That said, anything you and I discuss in private will stay there unless I have your permission to share it. Likewise, there may be some company information I may not be able to share. Typically, it's more of a timing thing - I can't share it until X date. In these cases, I'll say so.
-
 I'm a big believer in being radically candid - from Radical Candor by Kim Scott. Here's a great [article](https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) on First Round Review that sums it up. Two requirements for being radically candid are for us to have psychological safety and for the feedback to be real-time. In short, to create psychological safety, my aim is for work to be a place where you can be fully you.
 
 Another aspect to creating a psychologically safe environment has to do with how we handle positive and negative feedback. In general, feedback should be shared privately in real-time. Similar to my gossip note, positive feedback is generally okay to be shared publicly. However, negative feedback (or feedback that could be perceived as negative) should never be shared in public - always share this privately.
@@ -126,17 +124,14 @@ Generally speaking, I like for us to meet weekly at first, then every other week
 
 ## Leadership Influences
 
-### How to be Successful
+### My Dad on How to be Successful
 
-My dad was in leadership positions for most of his career. From how he lead our family to his employees and watching him on scouting trips, I subconsciously learned many things from him. One of the things that's stuck with me is a simple "success" framework he created that he would share with his teams. Here are the steps:
+My dad was in leadership positions for most of his career. From watching him while I was growing up, I subconsciously learned many things from him. One of the things that's stuck with me is a simple "success" framework he created that he would share with his teams. Here are the steps:
 
 1. **Show up** - That's it, just show up! If you show up, you're doing better than 78% of people (fairly certain he made up these percentages, but hey, seems legit, right?).
 2. **Show up on time** - This means you may have to routinely get in early to ensure you're there on time. If you do this, you're doing better than 82% of people.
 3. **Start work when you get there** - When you get to work, do you first take time to check your personal email or grab breakfast or coffee? That's great, not a problem, just make sure you're there early to do those things before the workday starts. If you do this, you're doing better than 93% of people.
 4. **Work the full day** - This doesn't mean you shouldn't take breaks or have celebrations with the team. It does mean that you should spend your work time, working. I've found that by working all day, you can amaze yourself with how much can actually be accomplished in a day, week, month, etc.
-
-Originally, these four steps were it. However, after moving to Louisiana and working in New Orleans, my dad had to add a fifth step. Now, I'm not sure if it has anything to do with the city itself, the times, or anything else, but here it is:
-
 5. **Don't lie** - It seems like this should go without saying. I can't help you, accurately assess the situation, or a host of other things if I don't know the truth. So please tell the truth, and I'll promise to do the same.
 
 ### Books
