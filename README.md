@@ -1,8 +1,8 @@
-# How I Think about Leadership
+# A guide to working with me
 
 Welcome!
 
-This exists to give you some insight into what to expect when working with me. Most of this will come out organically as we get to know each other. This serves as a place for me to gather my thoughts and share them succinctly.
+This exists to give you some insight into how I think about leadership, what to expect from me, and a bit about what I expect from you. Most of this will come out organically as we get to know each other. This serves as a place for me to gather my thoughts and share them succinctly.
 
 ## My Role
 
