@@ -1,4 +1,4 @@
-# A guide to working with me
+# A Guide to Working with Me
 
 Welcome!
 
@@ -6,7 +6,7 @@ This exists to give you some insight into how I think about leadership, what to 
 
 ## My Role
 
-In short, my role is to maintain and elevate team culture and to have deep domain/technical knowledge of my team's products in order to hold my team accountable, keep my eyes on the horizon, guide the technical direction of our products, and advise on the technical feasibility of new features/products.
+One of the most important parts of my role is to maintain and elevate team culture as culture is what drives us. Likewise, it is equally important that I have deep domain/technical knowledge of my teams' products. This allows me to properly ensure my teams are charging in the right direction and making good progress.
 
 ### Maintain and Elevate Team Culture
 
@@ -22,19 +22,19 @@ A quick note on gossip: You should pass negatives up (to your manager(s) private
 
 This one is pretty obvious as it facilitates many of my responsibilities. I need to have deep domain knowledge in order to hold my team accountable, guide the technical direction, and advise on the technical feasibility of new features/products.
 
+#### Guide the Technical Direction
+
+"Guide" is the key word here. I need to make sure we're headed in the right direction and setup guardrails where necessary. When I see us going off course, I'll make suggestions and nudge us to get back on track. Sometimes, I'm the sanity check (and other times I need one - ha!).
+
 #### Hold my Team Accountable
 
 I'm a fan of using OKRs (Objectives and Key Results) to accomplish this. They help us to set goals and evaluate our progress and success. [This](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) is a good introduction to OKRs.
 
 #### Keep my Eyes on the Horizon
 
-As the team's "heads down" on new features and daily deliverables, I work to keep my head up to see what's coming and make sure we're heading in the right direction. Sometimes I'll run out ahead to scout the area to see which way we should go.
+As the team is "heads down" on new features and daily deliverables, I work to keep my head up to see what's coming and make sure we're heading in the right direction. Sometimes I'll run out ahead to scout the area to see which way we should go.
 
 This doesn't mean I won't involve the team in direction. In fact it's quite the opposite. I seek feedback, suggestions, and ideas from everyone on the team.
-
-#### Guide the Technical Direction
-
-"Guide" is the key word here. I'm not the "hero" of the technical direction; I'm the guide. I need to make sure we're headed to that horizon my eyes are on and setup guardrails where necessary. When I see us going off course, I'll make suggestions and nudge us to get back on track. Sometimes, I'm the sanity check (and other times I need one - ha!).
 
 #### Advise on the Technical Feasibility of new Features/Products
 
@@ -48,7 +48,7 @@ At its base, servant leadership is about [leading with others in mind](https://w
 
 ### Empowerment
 
-I believe in empowering my team through providing a clear roadmap, vision, and context. You're the hero, and I want to make sure you have everything you need to succeed.
+I believe in empowering my team through providing a clear roadmap, vision, and context. You're the main character in this story (while I'm playing a supporting role - think "guide"), and I want to make sure you have everything you need to succeed.
 
 Also, I trust that you don't need me involved in every decision. You have the day-to-day context and, if I'm doing my job, the global context/vision required to make most decisions. That said, there's a balance here, there are some decisions I definitely need to be involved in, and there are some where I may not need to be involved but I should at least be aware of the decision. In the beginning, we should lean more towards keeping me aware of most decisions with that diminishing over time. This goes hand-in-hand with building an [Intent-Based Environment](https://www.davidmarquet.com/our-story/).
 
@@ -94,7 +94,7 @@ So, if we're not failing, we're not trying hard enough.
 
 ### Agile
 
-I'm a huge fan of Agile and teach an introductory course on it. Instead of being strict to a certain process (ie Scrum), I'm a believer in the [principles from the agile manifesto](http://agilemanifesto.org/principles.html). I'm flexible on how the team applies those principles. Similarly, I'm very fond of Kanban principles as they can be applied to any process. You'll hear me repeat these often.
+I'm a huge fan of Agile and teach an introductory course on it. Instead of being strict to a certain process (ie Scrum), I'm a believer in the principles from the [agile manifesto](http://agilemanifesto.org/principles.html) and the [software craftmanship manifesto](http://manifesto.softwarecraftsmanship.org/). I'm flexible on how the team applies those principles. Similarly, I'm very fond of Kanban principles as they can be applied to any process. You'll hear me repeat these often.
 
 ### Have Fun
 
