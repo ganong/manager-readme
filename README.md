@@ -28,7 +28,7 @@ This one is pretty obvious as it facilitates many of my responsibilities. I need
 
 #### Hold my Team Accountable
 
-I'm a fan of using OKRs (Objectives and Key Results) to accomplish this. They help us to set goals and evaluate our progress and success. [This](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) is a good introduction to OKRs.
+I'm a fan of using OKRs (Objectives and Key Results) to accomplish this. They help us to set goals and evaluate our progress and success.
 
 #### Keep my Eyes on the Horizon
 
@@ -60,7 +60,7 @@ As a team, we need to act like we're all in the same canoe out on the water. If 
 
 Likewise, team ownership is shared. We win or lose as a team. To take this analogy further: I can't see everything in the water at the same time. If someone sees a rock up ahead that isn't called out, call it out. Otherwise, we may hit it and sink our canoe.
 
-### People are Human (Not Robots)
+### People are Humans (Not Robots)
 
 It's easier to be kind to one another when we know we're all real, live humans. Sounds simple right? Well, when we're just a name behind an email address or slack handle, it's pretty easy to forget that there's actually a person behind that name. Spending time getting to know one another not only helps with this but can also improve communication in everyday work as you will learn each person's personal communication style.
 
@@ -118,7 +118,7 @@ Another aspect to creating a psychologically safe environment has to do with how
 
 ### 1 on 1's
 
-1 on 1 time is your time. We can use it however you'd like. If you don't have anything, I'll have some questions or meaty conversation starters to get us going. Spending some of the time talking about non-work topics is great to as it helps to build the relationship.
+1 on 1 time is your time. We can use it however you'd like. If you don't have anything, I'll have some questions or meaty conversation starters to get us going. Spending some of the time talking about non-work topics is great too as it helps to build the relationship.
 
 Generally speaking, I like for us to meet weekly at first, then every other week as we get going (assuming I'm pretty well plugged in with the team). I'm flexible on this.
 
@@ -132,7 +132,7 @@ My dad was in leadership positions for most of his career. From watching him whi
 2. **Show up on time** - This means you may have to routinely get in early to ensure you're there on time. If you do this, you're doing better than 82% of people.
 3. **Start work when you get there** - When you get to work, do you first take time to check your personal email or grab breakfast or coffee? That's great, not a problem, just make sure you're there early to do those things before the workday starts. If you do this, you're doing better than 93% of people.
 4. **Work the full day** - This doesn't mean you shouldn't take breaks or have celebrations with the team. It does mean that you should spend your work time, working. I've found that by working all day, you can amaze yourself with how much can actually be accomplished in a day, week, month, etc.
-5. **Don't lie** - It seems like this should go without saying. I can't help you, accurately assess the situation, or a host of other things if I don't know the truth. So please tell the truth, and I'll promise to do the same.
+5. **Don't lie** - It seems like this should go without saying. I can't accurately assess the situation or a host of other things if I don't know the truth. So please tell the truth, and I'll promise to do the same.
 
 ### Books
 
