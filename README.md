@@ -54,7 +54,7 @@ Also, I trust that you don't need me involved in every decision. You have the da
 
 ### We're All in the Same Canoe
 
-I was lucky enough to hear Davidson's Coach Bob McKillop give a talk about his "canoe theory." Growing up camping, backpacking and canoeing, it stuck.
+Davidson's Basketball Coach Bob McKillop gives his players a talk about his "canoe theory." Growing up camping, backpacking, and canoeing, it stuck.
 
 As a team, we need to act like we're all in the same canoe out on the water. If we want to go anywhere, we need to be paddling in the same direction. If we want to go anywhere fast, we *all* need to be paddling.
 
